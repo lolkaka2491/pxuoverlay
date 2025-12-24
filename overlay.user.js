@@ -8,7 +8,7 @@
 // @include      *://*pixuniverse.fun/*
 // @grant        none
 // @license MIT
-// @downloadURL  https://woyken.github.io/pixelplanet.fun-OverlayPicture/pixelPlanetOverlay-loader.user.js
+// @downloadURL  https://github.com/lolkaka2491/pxuoverlay/raw/refs/heads/main/overlay.user.js
 // ==/UserScript==
 /**/
 
