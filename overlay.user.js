@@ -4,7 +4,7 @@
 // @version      1.1.15
 // @description  Add your picture as overlay to pixuniverse
 // @author       small bee
-// @include      *://*pxunivers.fun/*
+// @include      *://*pxuniverse.fun/*
 // @include      *://*pixuniverse.fun/*
 // @grant        none
 // @license MIT
