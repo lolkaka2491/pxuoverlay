@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         pixuniverse picture overlay
 // @namespace    Credits: github.com/Woyken
-// @version      1.1.15
+// @version      1.1.16
 // @description  Add your picture as overlay to pixuniverse
 // @author       small bee
 // @include      *://*pxuniverse.fun/*
